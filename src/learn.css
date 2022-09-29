@@ -1,0 +1,47 @@
+html{
+    background-color: #2941ab;
+    border: 1px solid  rgb(255, 86, 119);
+}
+#logo{
+    width: 15px;
+}
+.intro{
+    text-align: center;
+}
+.load {
+margin: 10px;
+border-radius: 15px;
+color: #2941ab;
+width: 75px;
+height: 60px;
+background-color: rgb(255, 86, 119);
+}
+
+button:hover{
+    cursor: pointer;
+}
+.back{
+    margin: 10px;
+    border-radius: 15px;
+    color: #2941ab;
+    width: 75px;
+    height: 60px;
+    background-color: rgb(255, 86, 119);
+    
+}
+
+#posts {
+    text-align: center;
+    /* border: 2px #45ab29 solid; */
+    padding: 5px;
+
+}
+
+#posts h3{
+    padding: 15px;
+    color:  rgb(30, 215, 96);
+}
+
+hr{
+    background-color: rgb(255, 225, 127);
+}

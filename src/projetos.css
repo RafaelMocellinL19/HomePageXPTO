@@ -1,0 +1,31 @@
+html{
+    background-color:  #2941ab;
+    
+}
+
+.projetos{
+    text-align: center;
+    color:  rgb(30, 215, 96);  
+    padding: 10px;
+    padding-bottom: 10px;
+    border: #E126D9 solid  1px;
+
+}
+.list{
+    text-align: center;
+    padding: 5px;
+    
+} 
+
+
+       section{
+        
+        border: dotted #E126D9 1px;
+        
+       }
+
+
+.list a{
+    color: rgb(30, 215, 96);
+   
+}
